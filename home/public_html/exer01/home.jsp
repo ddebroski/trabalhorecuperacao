@@ -1,0 +1,21 @@
+<br>
+<center>
+<table border="2">
+    <tr>
+        <td>Nome</td>
+        <td>Telefone</td>
+    </tr>
+    <tr>
+        <td>Mario</td>
+        <td>88888888</td>
+    </tr>
+    <tr>
+        <td>Joao</td>
+        <td>99999999</td>
+    </tr>
+    <tr>
+        <td>Pedro</td>
+        <td>7777777777</td>
+    </tr>
+</table>
+</center>
